@@ -9,7 +9,8 @@ workflows:
     jobs:
       - build
       - test
-          reguires: ["build"]
+          reguires:
+            - build
 
 version: 2
 jobs:
