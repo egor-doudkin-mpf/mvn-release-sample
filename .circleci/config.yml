@@ -8,9 +8,7 @@ workflows:
   build_and_test:
     jobs:
       - build
-      - test:
-          reguires:
-            - build
+      - test
 
 version: 2
 jobs:
