@@ -15,7 +15,7 @@
   <scm>
       <connection>scm:git:git@github.com:egor-doudkin-mpf/mvn-release-sample.git</connection>
       <developerConnection>scm:git:git@github.com:egor-doudkin-mpf/mvn-release-sample.git</developerConnection>
-    <tag>release/1.0.1</tag>
+    <tag>mvn-release-sample-1.0</tag>
   </scm>
 
   <dependencies>
